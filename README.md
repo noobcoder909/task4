@@ -1,1 +1,1 @@
-[deplyment link](ptmjfxrbvnmqsvsbkqnakk.streamlit.app)
+[deplyment link](https://ptmjfxrbvnmqsvsbkqnakk.streamlit.app)
